@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TomatoBell</string>
+    <string name="title_activity_rest_screen">restScreenActivity</string>
+</resources>
